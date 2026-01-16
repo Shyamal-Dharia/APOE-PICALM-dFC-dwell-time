@@ -1,4 +1,4 @@
-# Dwell-Time of Functional Connectivity States Associated with High-Risk Genetic Factors for Early Alzheimer’s Disease Diagnosis
+# Genetic Interaction of APOE-ε4 and PICALM rs3851179 is Associated With Dynamic Functional Connectivity in Healthy Middle-Aged Adults at Risk for Alzheimer’s Disease
 
 This repository contains scripts and notebooks for preprocessing and analyzing fMRI data, including temporal analysis of functional connectivity and a machine learning model based on dwell-time features.
 
